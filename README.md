@@ -4,26 +4,6 @@
  </head>
   <body>
     
-<!-- Start My Basic Information -->
-<section>
-   <h1 align="center">Assalamu-Alaikum</h1>
-   <div align="center">
-  <img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif">
-  </div>
-   <h2 align="center">I am Md. Shakil Hossain✨</h2>
-   <p>🎓 I am Currently a 3rd year Student at <a href="https://www.juniv.edu/institute/iit" target="_blank">Institute of Information Technology</a>  in <a href="https://www.juniv.edu/" target="_blank">Jahangirnagar University.</a>
-   </p>
-   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
-
-<!-- <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="3">
-<br> -->
-
-</section>
-<!-- End My Basic Information -->
-  
-   
-   
-    
 <!-- START Visitor Count -->
 <div align="center">
 <h2 align="centre">Visitors Count</h2>  
